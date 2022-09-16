@@ -1,0 +1,17 @@
+{
+    "name": "vendor/name",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Name\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yernarsha",
+            "email": "y.blackberry@mail.ru"
+        }
+    ],
+    "require": {
+        "fabpot/goutte": "^4.0"
+    }
+}
